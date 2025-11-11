@@ -1,1 +1,1 @@
-# WASTE-CLASSIFICATION-SYSTEM-USING-YOLOV11
+wasteclassificationmanagemnet
